@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.container{
+
+    height: 400;
+    margin: 20;
+    background-color: blanchedalmond;
+    height: 100%;
+    
+}
+.center {
+  margin: auto;
+  width: 50%;
+  height: 100%;
+  border: 3px solid green;
+  padding: 10px;
+}
+
